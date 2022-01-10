@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "asd22345566",
+      "datetime": "January 09, 2022 8:59:59 PM",
+      "body": "asd22245"
+    },
+    {
+      "id": 2,
+      "title": "123555888899",
+      "datetime": "January 09, 2022 9:01:10 PM",
+      "body": "ss2333455"
+    },
+    {
+      "id": 3,
+      "title": "wwww24444",
+      "datetime": "January 09, 2022 9:02:04 PM",
+      "body": "wwww2"
+    },
+    {
+      "id": 4,
+      "title": "rs3",
+      "datetime": "January 10, 2022 10:01:15 PM",
+      "body": "rs3"
+    },
+    {
+      "id": 5,
+      "title": "rs2",
+      "datetime": "January 10, 2022 9:52:37 PM",
+      "body": "rs2"
+    }
+  ]
+}
